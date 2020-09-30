@@ -1,5 +1,3 @@
-NEW CHANGE
-
 
 CONTENTS OF THIS FILE
 ---------------------
